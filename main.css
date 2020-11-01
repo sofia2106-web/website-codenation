@@ -1,0 +1,140 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    
+}
+body 
+{
+    background-image: url(image/itl.cat_black-art-wallpaper_3244064.png);
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.menubar ul a
+{
+    display: block;
+    padding: 0 65px 0 0;
+    text-decoration: none;
+    width:100%;
+    text-align:center;
+}
+.menubar 
+{
+    background: rgb(34, 30, 30);
+}
+
+.menubar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+
+.menubar ul li
+{
+    width: 150px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.menubar ul li a
+{
+    text-decoration: none;
+    color: #fff;   
+}
+
+.active, .menubar ul li:hover
+{
+    background: rgb(97, 92, 92);
+    border-radius: 1px;
+}
+
+.helloworld{
+    background-color: rgb(0, 0, 0, 0.6);
+    color: grey;
+    text-align: center;
+    font-size: 100px;
+    border-style: solid;
+    padding: 100px;
+    margin: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.welcometomywebsite {
+    background-color: rgb(0, 0, 0, 0.6);
+    color: grey;
+    text-align: center;
+    font-size: 100px;
+    border-style: solid;
+    padding: 100px;
+    margin: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.aboutme {
+    color: violet;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    border-style: solid;
+    padding: 100pk;
+    margin: 100px;
+    width: 250px;
+    height: 70px;
+    margin-top: 1px;
+    margin-left: auto;
+}
+
+.unitoneoutcomeone, .unitoneoutcometwo, .unitoneoutcomethree, .unittwooutcomeone {
+    font-size: 30px;
+    color:violet;
+    text-align: center;
+    border-style: solid;
+    width: 350px;
+    height: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    background-color: rgb(0, 0, 0, 0.6);
+    color: grey;
+    font-size: 23px;
+    text-align: left;
+    border-style: solid;
+    padding: 40pk;
+    margin: 40px;
+    box-align: 70px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 25px;
+}
+img{
+    width: 280px;
+    height: 340px;
+    display: block;
+    margin-right: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 30px;
+    color: honeydew;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-style: italic;
+}
